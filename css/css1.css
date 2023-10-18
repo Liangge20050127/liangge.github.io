@@ -1,0 +1,66 @@
+@charset "utf-8";
+body {
+	background-image: url(../images/background.jpg);
+}
+.bt {
+	background-color: rgba(102,204,204,0.5);
+	text-align: center;
+	margin: auto;
+	border: 2px solid #FF3300;
+	font-family: "微软雅黑";
+	color: #ffffff;
+}
+.dh {
+	font-family: "微软雅黑";
+	font-size: 18px;
+	background-color: rgba(51,51,255,0.5);
+	text-align: center;
+	margin: auto;
+	border: 2px solid #ff00ff;
+}
+.nr {
+	background-color: rgba(255,0,0,0.5);
+	text-align: center;
+	margin: auto;
+	border: 2px solid #00ff00;
+	font-family: "微软雅黑";
+}
+a:link {
+	color: #0000FF;
+	text-decoration: none;
+}
+a:hover {
+	color: #ff0000;
+	text-decoration: none;
+}
+a:active {
+	color: #00ffff;
+	text-decoration: none;
+}
+a:visited {
+	color: #ff00ff;
+	text-decoration: none;
+}
+table {
+	font-family: "微软雅黑";
+	background-color: #ffffff;
+	text-align: center;
+}
+.f {
+	color: #ffcc00;
+}
+.se {
+	color: #666666;
+}
+.thd {
+	color: #996600;
+}
+.copyright {
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #ffffff;
+	background-color: rgba(51,255,51,0.5);
+	margin: auto;
+	border: 2px solid #ff9933;
+	text-align: center;
+}
